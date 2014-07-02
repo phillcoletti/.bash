@@ -37,4 +37,9 @@ PATH=${PATH}:/usr/X11R6/bin
 #----------#
 # Encoding #
 #----------#
-export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8a
+
+#---------------------------#
+# machine-specific settings #
+#---------------------------#
+source ~/.bash_profile
