@@ -33,3 +33,8 @@ $PWD
 #-----#
 export DISPLAY=:0.0
 PATH=${PATH}:/usr/X11R6/bin
+
+#----------#
+# Encoding #
+#----------#
+export LANG=en_US.UTF-8
