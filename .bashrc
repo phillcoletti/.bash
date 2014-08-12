@@ -42,4 +42,4 @@ export LANG=en_US.UTF-8a
 #---------------------------#
 # machine-specific settings #
 #---------------------------#
-source ~/.bash_profile
+# source ~/.bash_profile
